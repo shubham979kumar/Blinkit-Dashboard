@@ -94,7 +94,7 @@ This project showcases **end-to-end BI workflow**, including data cleaning, mode
 
 ### 📸 Dashboard Preview
 
-*(Upload screenshot to GitHub and insert filename here)*
+*(https://github.com/shubham979kumar/Blinkit-Dashboard/blob/main/Screenshot%20Dashboard.png)*
 
 ```md
 ![Blinkit Dashboard Preview](dashboard.png)
