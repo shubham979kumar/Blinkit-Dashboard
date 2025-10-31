@@ -94,7 +94,7 @@ This project showcases **end-to-end BI workflow**, including data cleaning, mode
 
 ### 📸 Dashboard Preview
 
-*(<img width="1308" height="729" alt="Screenshot Dashboard" src="https://github.com/user-attachments/assets/945398c5-c746-4986-95d5-f4455c74e0ee" />)*
+*<img width="1308" height="729" alt="Screenshot Dashboard" src="https://github.com/user-attachments/assets/945398c5-c746-4986-95d5-f4455c74e0ee" />*
 
 ---
 
