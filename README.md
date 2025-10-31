@@ -94,17 +94,14 @@ This project showcases **end-to-end BI workflow**, including data cleaning, mode
 
 ### 📸 Dashboard Preview
 
-*(https://github.com/shubham979kumar/Blinkit-Dashboard/blob/main/Screenshot%20Dashboard.png)*
+*(<img width="1308" height="729" alt="Screenshot Dashboard" src="https://github.com/user-attachments/assets/945398c5-c746-4986-95d5-f4455c74e0ee" />)*
 
 ```md
 ![Blinkit Dashboard Preview](dashboard.png)
 ```
-
 ---
 
 ### 🔗 Report Link
-
-*(Add once published)*
 
 > Power BI Public Link: [https://your-published-dashboard-url](https://github.com/shubham979kumar/Blinkit-Dashboard/blob/main/Screenshot%20Dashboard.png)
 
